@@ -18,14 +18,15 @@ This project is subject to change by the developer and is still in development
 <img src="Screenshots/6.png" />
 
 ## To test this out
-Testing this is as simple as it gets. Follow this steps
-1. Open your terminal (NOTE: git bash preferred/ Terminal on VS Code)
-2. Type the following command in the terminal
+Testing this is as simple as it gets. Follow this steps:
+1. Clone this project.
+2. Open your terminal (NOTE: git bash preferred/ Terminal on VS Code)
+3. Type the following command in the terminal
      ```
      python3 my_example.py (in Mac or Linux)
      python my_example.py  (in Windows)
      ```
-3. Visit the localhost to see it in action
+4. Visit the localhost to see it in action
 
 ## Pull Request
 
