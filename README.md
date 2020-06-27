@@ -36,7 +36,7 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 
 
 ## Developed & Maintained by
-[Sayan Nath](https://sayan-nath.web.app/)<br>
+[👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 [📷 Insta](https://www.instagram.com/sayannath235/)<br>
 [🐤 Twitter](https://twitter.com/SayanNa20204009)<br>
 [🧳 LinkedIn](https://www.linkedin.com/in/sayan-nath-15a989182/)
