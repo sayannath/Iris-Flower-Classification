@@ -39,3 +39,4 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 [Sayan Nath](https://sayan-nath.web.app/)<br>
 [📷 Insta](https://www.instagram.com/sayannath235/)<br>
 [🐤 Twitter](https://twitter.com/SayanNa20204009)<br>
+[🧳 LinkedIN] (https://www.linkedin.com/in/sayan-nath-15a989182/)
