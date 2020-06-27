@@ -1,5 +1,5 @@
 # Iris-Flower-Classification
-### Iris Flower Classification deployed using Flask API.
+### Iris Flower Classification deployed using Flask.
 
 ## Short Description
 This web app is use to determine the different type of flower species from it's feature which are sepal length, sepal width, petal length and petal width.
