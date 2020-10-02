@@ -36,9 +36,12 @@ class FlowerForm(FlaskForm):
 
     submit = SubmitField("Analyse")
 
-
 @app.route("/", methods=['GET', 'POST'])
 def index():
+    return render_template('index.html')
+
+@app.route("/home", methods=['GET', 'POST'])
+def home():
     form = FlowerForm()
     if form.validate_on_submit():
         session['sep_len'] = form.sep_len.data
