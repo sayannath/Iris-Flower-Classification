@@ -1,10 +1,26 @@
-<h1>Thank You. Here is the information you Gave:</h1>
+<!DOCTYPE html>
+<html lang="en">
 
-<ul>
-    <li>Sepal Length: {{session['sep_len']}}</li>
-    <li>Sepal Width: {{session['sep_wid']}}</li>
-    <li>Petal Length: {{session['pet_len']}}</li>
-    <li>Petal Width: {{session['pet_wid']}}</li>
-</ul>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+</head>
 
-<h2>Your predicted Flower Class is: {{results}}</h2>
+<body>
+    <div class="container">
+        <h1>Thank You. Here is the information you Gave:</h1>
+
+        <ul>
+            <li>Sepal Length: {{session['sep_len']}}</li>
+            <li>Sepal Width: {{session['sep_wid']}}</li>
+            <li>Petal Length: {{session['pet_len']}}</li>
+            <li>Petal Width: {{session['pet_wid']}}</li>
+        </ul>
+
+        <h2>Your predicted Flower Class is: {{results}}</h2>
+    </div>
+</body>
+
+</html>
