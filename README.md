@@ -7,7 +7,7 @@ This web app is use to determine the different type of flower species from it's 
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## NOTE:
-This project is subject to change by the developer and is still in development
+This project is subject to change by the developer and is still in development.
 
 ## Screenshots
 <img src="Screenshots/1.png" />
@@ -42,5 +42,5 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 [🐤 Twitter](https://twitter.com/SayanNa20204009)<br>
 [🧳 LinkedIn](https://www.linkedin.com/in/sayan-nath-15a989182/)
 <br>
-<br>
+
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/sayannath)
